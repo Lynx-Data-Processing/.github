@@ -10,7 +10,7 @@
 - [Introduction](#introduction)
 - [Technologies](#technologies)
 
-<h1 id="introduction">🗨️ Introduction</h1>
+<h1 id="introduction">🗨Introduction</h1>
 
 Lynx specializes in processing dashcam footage using advanced machine learning models. The teams innovative solution adds the predicted data to a map-based web application, providing valuable insights and analysis of road conditions and traffic flow. By leveraging cutting-edge AI technology, Lynx helps organizations make informed decisions and improve their operations, leading to a safer and more efficient transportation industry.
 
