@@ -41,9 +41,3 @@ Below is a table that provides an overview of the technologies we are currently 
  </table>
 </div>
 
-<h1 id="tools">Tools</h1>
-
-[Mapping Website](https://svelte-city-twin-mapping-dashboard.vercel.app/)
-
-[Queens API](https://precious-son-eed.notion.site/API-Documentation-416df5d3eb3a4aaea87b89f8eeb47c62)
-
