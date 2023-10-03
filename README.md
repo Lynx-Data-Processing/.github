@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Lynx</h1>
-  <h4>GIS  •  Machine Learning  •  Data Processing</h4>
+  <p>GIS  •  Machine Learning  •  Data Processing</p>
 
 </div>
 
@@ -9,8 +9,9 @@
 
 - [Introduction](#introduction)
 - [Technologies](#technologies)
+- [Tools](#tools)
 
-<h1 id="introduction">🗨Introduction</h1>
+<h1 id="introduction">Introduction</h1>
 
 Lynx specializes in processing dashcam footage using advanced machine learning models. The teams innovative solution adds the predicted data to a map-based web application, providing valuable insights and analysis of road conditions and traffic flow. By leveraging cutting-edge AI technology, Lynx helps organizations make informed decisions and improve their operations, leading to a safer and more efficient transportation industry.
 
@@ -40,4 +41,9 @@ Below is a table that provides an overview of the technologies we are currently 
  </table>
 </div>
 
+<h1 id="tools">Tools</h1>
+
+[Mapping Website](https://svelte-city-twin-mapping-dashboard.vercel.app/)
+
+[Queens API](https://precious-son-eed.notion.site/API-Documentation-416df5d3eb3a4aaea87b89f8eeb47c62)
 
