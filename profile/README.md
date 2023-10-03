@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Lynx</h1>
-  <h4>GIS  •  Machine Learning  •  Data Processing</h4>
+  <p>GIS  •  Machine Learning  •  Data Processing</p>
 
 </div>
 
@@ -9,6 +9,7 @@
 
 - [Introduction](#introduction)
 - [Technologies](#technologies)
+- [Tools](#tools)
 
 <h1 id="introduction">Introduction</h1>
 
@@ -20,6 +21,7 @@ Lynx specializes in processing dashcam footage using advanced machine learning m
 <div align="center" id="technologies">
 
 Below is a table that provides an overview of the technologies we are currently working with.
+
 <table>
   <tr>
     <th>Front-End</th>
@@ -28,21 +30,20 @@ Below is a table that provides an overview of the technologies we are currently 
   </tr>
   <tr> 
     <td><img src="https://img.shields.io/badge/svelte-%2320232a.svg?style=for-the-badge&logo=svelte" alt="Svelte"/></td>
-    <td><img src="https://img.shields.io/badge/fast-api-%2320232a.svg?style=for-the-badge&logo=fastAPI&logoColor=white" alt="Fast API.js" /></td>
-    <td><img src="https://img.shields.io/badge/Vercel-%2320232a.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></td>
+    <td><img src="https://img.shields.io/badge/fast-api-%6DA55F?style=for-the-badge&logo=fastAPI&logoColor=white" alt="Fast API.js" /></td>
+    <td><img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" /></td>
   </tr>
   <tr>
-        <td align='center'><img src="https://img.shields.io/badge/mapbox-%2320232a.svg?style=for-the-badge&logo=mapbox" alt="MapBox"/></td>
-    <td><img src="https://img.shields.io/badge/tensorflow-%2320232a.svg?style=for-the-badge&logo=tensorflow" alt="FastAPI.js"/></td>
-    <td><img src="https://img.shields.io/badge/Supabase-%2320232a.svg?style=for-the-badge&logo=supabase" alt="Supabase"/></td>
-  </tr>
-  <tr>
-  <td align='center'><img src="https://img.shields.io/badge/jest-%2320232a.svg?style=for-the-badge&logo=jest" alt="Jest"/></td>
-   <td align='center'><img src="https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express" alt="express"/></td>
-  
-  <td align='center'><img src="https://img.shields.io/badge/google_cloud-%2320232a.svg?style=for-the-badge&logo=google-cloud" alt="Google Cloud" /></td>
+    <td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js" alt="Next.js"/></td>
+    <td><img src="https://img.shields.io/badge/tensorflow-%23404d59.svg?style=for-the-badge&logo=tensorflow" alt="FastAPI.js"/></td>
+    <td><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx" alt="Nginx"/></td>
   </tr>
  </table>
 </div>
 
+<h1 id="tools">Tools</h1>
+
+[Mapping Website](https://svelte-city-twin-mapping-dashboard.vercel.app/)
+
+[Queens API](https://precious-son-eed.notion.site/API-Documentation-416df5d3eb3a4aaea87b89f8eeb47c62)
 
